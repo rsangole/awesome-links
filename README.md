@@ -13,3 +13,7 @@
 ## DL Stuff
 
 ## Stats Stuff
+
+## Time Series Stuff
+
+* https://www.cs.ucr.edu/~eamonn/MatrixProfile.html
