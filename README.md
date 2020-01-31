@@ -17,3 +17,4 @@
 ## Time Series Stuff
 
 * https://www.cs.ucr.edu/~eamonn/MatrixProfile.html
+* https://www.cs.ucr.edu/%7Eeamonn/UCRsuite.html
