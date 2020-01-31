@@ -14,6 +14,8 @@
 
 ## Stats Stuff
 
+* (Intro to GAMs) https://m-clark.github.io/generalized-additive-models/
+
 ## Time Series Stuff
 
 * https://www.cs.ucr.edu/~eamonn/MatrixProfile.html
