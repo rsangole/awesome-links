@@ -19,4 +19,5 @@
 ## Time Series Stuff
 
 * https://www.cs.ucr.edu/~eamonn/MatrixProfile.html
-* https://www.cs.ucr.edu/%7Eeamonn/UCRsuite.html
+* https://nwfsc-timeseries.github.io/atsa/
+* https://petolau.github.io/Bootstrapping-time-series-for-improving-forecasting-in-R/
