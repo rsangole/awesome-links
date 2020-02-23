@@ -20,4 +20,4 @@
 
 * https://www.cs.ucr.edu/~eamonn/MatrixProfile.html
 * https://nwfsc-timeseries.github.io/atsa/
-* https://petolau.github.io/Bootstrapping-time-series-for-improving-forecasting-in-R/
+* https://petolau.github.io/research/
